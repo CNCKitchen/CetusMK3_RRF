@@ -8,6 +8,8 @@ Contains the KiCAD and GERBER files to manufacture your own board. I had a small
 ## Holder
 Contains different holders to mount the adapter board and the new mainboard. Available versions:
 - Mellow Fly RRF E3 (and E3 Pro)
+## PrusaSlicer Profile
+Contains the PS profile with wich I did most of my prints. Created with PS2.4 Beta but should also be back-compatible.
 ## RRF Configuration
 Contains the configuration files for Reprap Firmware.
 - Created for RepRap Firmware 3.4
